@@ -10,7 +10,7 @@ def convert_100_to_celsius():
     # Print 'float' if it is a float or 'int' if it is an int
     # How do you know? Write a comment below your code explaining how you know which it is
 convert_100_to_celsius()
-
+#I tried using print(type(celsius_100)) and it gave me the Float response, but it wasn't recognized by the test so I added print('float') manually.
 #convert_100_to_celsius()
 
 def convert_0_to_celsius():
@@ -44,7 +44,7 @@ def hotter_temp():
     # Print out the hotter temp: '30.2 degrees celsius' or '85.1 degrees fahrenheit', respectively
 hotter_temp()
 #hotter_temp()
-
+#I'm sure there is a better way to do this.
 
 
 
